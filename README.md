@@ -1,4 +1,6 @@
-Запустить выполнение:
+# Excon-test
+
+Запустить на выполнение:
 
 ```bash
-php ./index.php
+php index.php
