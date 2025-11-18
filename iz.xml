@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FreeDoc xmlns="urn:customs.ru:Information:CustomsDocuments:FreeDoc:5.8.0" xmlns:CategoryCust="urn:customs.ru:Categories:3.0.0" xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.8.0" xmlns:clt_ru="urn:customs.ru:CommonLeafTypes:5.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentModeID="1006088E">
+	<cat_ru:DocumentID>79B4C598-B33A-4B24-BA35-92A5BD62A85A</cat_ru:DocumentID>
+	<DocumentHead>
+		<DocumentName>СПРАВКА по заключению идентификационной экспертизы</DocumentName>
+		<DocumentDate>2024-09-06</DocumentDate>
+		<DocumentNumber>4123-24/7825056737</DocumentNumber>
+		<OrganizationName>ЗАО "Центр проектов развития промышленности"</OrganizationName>
+	</DocumentHead>
+	<DocumentBody>
+		<TextSection>
+			<TextPara>2024-09-06</TextPara>
+			<SectionName>1. Дата выдачи заключения:</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>Контракт № 121342-B от 30.01.2024. Дополнительное соглашение № 1 от 03.07.2024 г., Дополнительное соглашение № 2 от 04.09.2024 г., Спецификация № 1 от 04.09.2024 г.</TextPara>
+			<SectionName>2. Номер и дата контракта или иного документа, являющегося основанием внешнеэкономической операции:</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>Предметом внешнеэкономической операции является поставка электротехнического оборудования</TextPara>
+			<SectionName>3. Сведения о внешнеэкономической операции:</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &amp;quot;ВЕСТ-ИНЖИНИРИНГ&amp;quot;, 191144, ГОРОД САНКТ-ПЕТЕРБУРГ, УЛ. МОИСЕЕНКО, Д. 22, ЛИТЕР З, ПОМЕЩ. 24-Н ОФИС 324, ИНН: 7816359862.</TextPara>
+			<SectionName>4. Российские участники внешнеэкономической операции:</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>BRANCH OF GENERAL TRADING HONG KONG LIMITED LLC, ГОНКОНГ, ROOM 8, S-V, 6/F VALIANT INDUSTRIAL CENTER 2-12 AU PUIWAN ST, FO TAN, NT HONG KONG.</TextPara>
+			<SectionName>5. Иностранные участники внешнеэкономической операции:</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>ГОНКОНГ</TextPara>
+			<SectionName>6. Страна назначения (отправления):</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>-</TextPara>
+			<SectionName>7. Потребители (конечные пользователи):</SectionName>
+		</TextSection>
+		<TextSection>
+			<TextPara>Для осуществления внешнеэкономической операции, указанной в настоящем заключении, лицензия или иное разрешение, предусмотренное законодательством Российской Федерации в области экспортного контроля, не требуется</TextPara>
+			<SectionName>8. Выводы экспертизы:</SectionName>
+		</TextSection>
+		<Table cols="6">
+			<TableName>Спецификация (перечень) товаров</TableName>
+			<ColumnSpec>C1</ColumnSpec>
+			<ColumnSpec>C2</ColumnSpec>
+			<ColumnSpec>C3</ColumnSpec>
+			<ColumnSpec>C4</ColumnSpec>
+			<TableBody>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>№</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>Наименование товара</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>Код ТН ВЭД</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>Техническое описание</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>1.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Панель / Panel
+Артикул: 6AV6 647-0AJ11-3AX1</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8537109100</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой панель оператора - программируемый контроллер с памятью, предназначенный для формирования команд управления работой технологического промышленного оборудования. Рабочее напряжение 24 В.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>2.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Блок/Unit
+Артикул: 6ES7 510-1DK03-0AB0
+Дополнительный номер: 6ES7 515-2AN03-0AB0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8537109100</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой программируемый контроллер с памятью, предназначенный для формирования команд управления работой технологического общепромышленного оборудования. Рабочее напряжение 24 В.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>3.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Карта/Сard
+Артикул: 6ES7 954-8LC03-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8523511000</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой незаписанное твердотельное энергонезависимое устройство хранения данных. Емкость 24 МБ.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>4.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module
+Артикул: 6ES7 131-6BH01-0BA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой электронный модуль из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенный для ввода и преобразования дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>5.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Панель / Panel 
+Артикул: 6AV2 124-0QC02-0AX1</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8537109100</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой панель оператора - программируемый контроллер с памятью, предназначенный для формирования команд управления работой технологического промышленного оборудования. Рабочее напряжение 24 В.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>6.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Шина/Tire 
+Артикул: 6ES7 590-1AC40-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>7326909807</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой профиль специальной формы из листовой стали, предназначенный для крепления на него электротехнического оборудования.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>7.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Блок/Unit 
+Артикул: 6ES7 515-2AM02-0AB0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8537109100</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой программируемый контроллер с памятью, предназначенный для формирования команд управления работой технологического общепромышленного оборудования. Рабочее напряжение 24 В.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>8.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 521-1BH10-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для ввода и преобразования дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>9.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 522-1BH10-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для ввода и преобразования дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>10.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 155-6AU01-0CN0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой электронный модуль из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенный для подключения модулей и устройств.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>11.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Шина/Tire
+Артикул: 6ES7 193-6AR00-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8517620003</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой сетевой адаптер, предназначенный для коммутации цифрового оборудования.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>12.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Карта/Сard
+Артикул: 6ES7 954-8LC03-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8523511000</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой незаписанное твердотельное энергонезависимое устройство хранения данных. Емкость 24 МБ.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>13.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 131-6BF01-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для ввода и преобразования дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>14.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 131-6TF00-0CA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для ввода и преобразования дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>15.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 131-6BF61-0AA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для ввода и преобразования дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>16.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module
+Артикул: 6ES7 132-6BF01-0BA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для вывода дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>17.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 132-6BD20-0BA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для вывода дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>18.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Блок/Unit
+Артикул: 6ES7 193-6BP00-0DA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляют собой базовые электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для установки в них и подключения элементов системы управления.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>19.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Блок/Unit 
+Артикул: 6ES7 193-6BP00-0BA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляют собой базовые электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для установки в них и подключения элементов системы управления.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>20.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 132-6BF01-0BA0</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объекты экспертизы представляют собой электронные модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенные для вывода дискретных сигналов.</TextPara>
+					</TableCell>
+				</TableRow>
+				<TableRow>
+					<TableCell align="Center">
+						<TextPara>21.</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>Модуль /Module 
+Артикул: 6ES7 134-6JD00-0CA1</TextPara>
+					</TableCell>
+					<TableCell align="Center">
+						<TextPara>8538909200</TextPara>
+					</TableCell>
+					<TableCell>
+						<TextPara>В соответствии с предоставленными документами объект экспертизы представляет собой электронный модули из состава конструкции распределенных систем управления технологическими процессами, построенных с применением программируемых контроллеров с памятью, предназначенный для ввода и преобразования аналоговых сигналов, поступающих от оконечных устройств.</TextPara>
+					</TableCell>
+				</TableRow>
+			</TableBody>
+		</Table>
+	</DocumentBody>
+</FreeDoc>
