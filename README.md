@@ -4,7 +4,8 @@
 
 ```bash
 php index.php
+```
 
-либо посмотреть результат здесь
+Или посмотреть результат здесь:
 
-https://go.lumpopo.ru/excont/
+[https://github.com/droppy2014/excont-test/blob/main/README.md](https://github.com/droppy2014/excont-test/blob/main/README.md)
