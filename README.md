@@ -4,3 +4,7 @@
 
 ```bash
 php index.php
+
+либо посмотреть результат здесь
+
+https://go.lumpopo.ru/excont/
